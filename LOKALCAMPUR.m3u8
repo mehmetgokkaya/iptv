@@ -3,11 +3,49 @@
 #EXTINF:-1 tvg-logo="https://gitlab.com/tonosidik/tv/raw/master/Capture.png" tvg-name="TONOMONS"  group-title="ADMIN",TONOMONS
 https://tonosidik3.github.io/VOD/Movie.mp4
 
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tv-online-png-4.png" group-title="TVONLINE.ID",MNC
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tv-online-png-4.png" group-title="TVONLINE.ID",GTV
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tv-online-png-4.png" group-title="TVONLINE.ID",RCTI
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tv-online-png-4.png" group-title="TVONLINE.ID",SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tv-online-png-4.png" group-title="TVONLINE.ID",ANTV
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tv-online-png-4.png" group-title="TVONLINE.ID",TRANS7
+http://id2.indostreamingtv.com/live/trans7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tv-online-png-4.png" group-title="TVONLINE.ID",TVONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tv-online-png-4.png" group-title="TVONLINE.ID",TRANSTV
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tv-online-png-4.png" group-title="TVONLINE.ID",NETTV
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tv-online-png-4.png" group-title="TVONLINE.ID",INDOSIAR
+https://etslive-2-vidio-com.akamaized.net/exp=1579113619~acl=/hls-p/ingest_205_*/*~hmac=0b8deafaa754cfefd548d1d76fc6ab218cf47ef7d363e3cd12c15caa398fa228/hls-p/ingest_205_720p/index.m3u8
+
+===================================
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/709px-Trans_TV_2013.svg.png" tvg-name="TRANS TV"  group-title="INDO-TV",TRANS TV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/709px-Trans_TV_2013.svg.png" tvg-name="TRANS TV"  group-title="INDO-TV",TRANS TV
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/300px-RCTI_logo_2015.svg.png" tvg-name="RCTI"  group-title="INDO-TV",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/300px-RCTI_logo_2015.svg.png" tvg-name="RCTI"  group-title="INDO-TV",RCTI
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/300px-RCTI_logo_2015.svg.png" tvg-name="RCTI HD"  group-title="INDO-TV",RCTI HD
 http://202.80.222.130/000001/2/ch14041511532707866226/1000.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -15,20 +53,38 @@ http://202.80.222.130/000001/2/ch14041511532707866226/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/95px-SCTV_Logo.svg.png" tvg-name="SCTV"  group-title="INDO-TV",SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/95px-SCTV_Logo.svg.png" tvg-name="SCTV"  group-title="INDO-TV",SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/771px-Indosiar_2015.svg.png" tvg-name="INDOSIAR"  group-title="INDO-TV",INDOSIAR
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/771px-Indosiar_2015.svg.png" tvg-name="INDOSIAR"  group-title="INDO-TV",INDOSIAR
+https://etslive-2-vidio-com.akamaized.net/exp=1579113619~acl=/hls-p/ingest_205_*/*~hmac=0b8deafaa754cfefd548d1d76fc6ab218cf47ef7d363e3cd12c15caa398fa228/hls-p/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" tvg-name="ANTV"  group-title="INDO-TV",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" tvg-name="ANTV"  group-title="INDO-TV",ANTV
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png" tvg-name="GLOBAL TV"  group-title="INDO-TV",GLOBAL TV
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png" tvg-name="GLOBAL TV"  group-title="INDO-TV",GTV
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7c/Netmediatama.png/200px-Netmediatama.png" tvg-name="NET TV HD"  group-title="INDO-TV",NET TV HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7c/Netmediatama.png/200px-Netmediatama.png" tvg-name="NET TV HD"  group-title="INDO-TV",NET TV HD
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/200px-MNCTV_logo_2015.svg.png" tvg-name="MNC TV"  group-title="INDO-TV",MNC TV
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/200px-MNCTV_logo_2015.svg.png" tvg-name="MNC TV"  group-title="INDO-TV",MNC TV
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/200px-MNCTV_logo_2015.svg.png" tvg-name="MNC TV"  group-title="INDO-TV",MNC TV
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -44,6 +100,9 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/200px-TvOne_logo_2012.svg.png" tvg-name="TV ONE"  group-title="INDO-TV",TV ONE
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/200px-TvOne_logo_2012.svg.png" tvg-name="TV ONE"  group-title="INDO-TV",TV ONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e7/BeritaSatu.png/200px-BeritaSatu.png" tvg-name="BERITA SATU"  group-title="INDO-TV",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
